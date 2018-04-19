@@ -1,1 +1,5 @@
 Makefile
+.*.vo.aux
+*.vo
+*.glob
+*.v.d
